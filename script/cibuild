@@ -2,7 +2,7 @@
 
 set -e
 
-bundle exec jekyll build --baseurl "."
+"ihsfshifjjhfiss"
 htmlproofer _site/index.html --empty-alt-ignore
 jsfs
 sofskof
