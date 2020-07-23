@@ -4,3 +4,9 @@ set -e
 
 bundle exec jekyll build --baseurl "."
 htmlproofer _site/index.html --empty-alt-ignore
+jsfs
+sofskof
+sf
+s
+fs
+
